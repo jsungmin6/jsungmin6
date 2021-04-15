@@ -1,16 +1,18 @@
-### Hi there 👋
+<div align=center>
 
-<!--
-**jsungmin6/jsungmin6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### BackEnd Engineer
+- 외주 백엔드 프리랜서 2회 진행 (ghostpass, sbau)
+- MakeUS, 토이프로젝트 통한 앱 런칭 2회 진행 
+
+### Interest
+- Spring
+- Jpa
+- Java
+
+<div align=center>
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jsungmin506@gmail.com)](mailto:jsungmin506@gmail.com)
+</div>
