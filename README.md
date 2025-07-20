@@ -1,2 +1,3 @@
 ### BackEnd Engineer
-- kakao backend Engineer
+- 카카오 메일 서비스 개발 (2021.6~ 2025.7)
+- 토스 광고 플랫폼 개발 (2025.7~)
